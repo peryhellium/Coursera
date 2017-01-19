@@ -1,0 +1,24 @@
+body {
+    font-family: 'Overpass', sans-serif;
+}
+
+#chicken {
+    background-color: grey;
+    color: white;
+    background-clip: padding-box;
+    border: 10px solid transparent; /* trik z przezroczystymi ramkami */
+}
+
+#beef {
+    background-color: grey;
+    color: white;
+    background-clip: padding-box;
+    border: 10px solid transparent;
+}
+
+#sushi {
+    background-color: grey;
+    color: white;
+    background-clip: padding-box;
+    border: 10px solid transparent;
+}
